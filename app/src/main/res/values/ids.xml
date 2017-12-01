@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnLogin" type="id" />
+    <item name="editpassword" type="id" />
+    <item name="editusername" type="id" />
+    <item name="list1" type="id" />
+    <item name="btnTambah" type="id" />
+    <item name="btnKurang" type="id" />
+    <item name="Nilai" type="id" />
+</resources>
